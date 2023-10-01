@@ -1,6 +1,6 @@
-
+/* 
 /* Your CSS Code here. */
-.holder-1{
+/* .holder-1{
 	display: flex;
 	flex-wrap: wrap;
     justify-content:center;
@@ -20,7 +20,7 @@
 .item-2{
 	height:90px;
 	width:90px;	
-	background-color:blue;
+	background-color:blue; */ */
 /* }
 .holder-2{
 	display: flex;
@@ -35,4 +35,10 @@
 	width:90px;	
 	background-color:blue;
 } */
+
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
 	
