@@ -1,6 +1,6 @@
 /* 
 /* Your CSS Code here. */
-/* .holder-1{
+.holder{
 	display: flex;
 	flex-wrap: wrap;
     justify-content:center;
@@ -8,35 +8,19 @@
 	font-weight: 550;
 	font-size: 40px;
 .item-3{
-	height:90px;
-	width:90px;	
+	height:120px;
+	width:120px;	
 	background-color:green;
 }
 .item-1{
-	height:90px;
-	width:90px;	
+	height:120px;
+	width:120px;	
 	background-color:red;
 }
 .item-2{
-	height:90px;
-	width:90px;	
-	background-color:blue; */ */
-/* }
-.holder-2{
-	display: flex;
-	flex-wrap: wrap;
-    justify-content:center;
-	align-item:center;
-	font-weight: 550;
-	font-size: 40px;
-}
-.item{
-	height:90px;
-	width:90px;	
+	height:120px;
+	width:120px;	
 	background-color:blue;
-} */
-.holder {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
 }
+
+
